@@ -1,43 +1,30 @@
 {
-  "id": "koboldworks-pause-control",
-  "title": "Koboldworks – Pause Control",
-  "description": "Allows automation of pausing and unpausing in certain situations.",
-  "version": "1.2.0",
-  "authors": [
-    {
-      "name": "MKAh",
-      "url": "https://gitlab.com/mkahvi",
-      "discord": "manaflower",
-      "flags": {}
-    }
-  ],
-  "esmodules": [
-    "pause-control.mjs"
-  ],
-  "languages": [
-    {
-      "lang": "en",
-      "path": "lang/en.json",
-      "name": "en",
-      "flags": {}
-    },
-    {
-      "lang": "it",
-      "path": "lang/it.json",
-      "name": "it",
-      "flags": {}
-    }
-  ],
-  "compatibility": {
-    "minimum": "11",
-    "verified": "14"
-  },
-  "license": "https://gitlab.com/koboldworks/agnostic/pause-control/-/raw/main/LICENSE",
-  "readme": "https://gitlab.com/koboldworks/agnostic/pause-control/-/raw/master/README.md",
-  "changelog": "https://gitlab.com/koboldworks/agnostic/pause-control/-/raw/master/CHANGELOG.md",
-  "manifest": "https://gitlab.com/koboldworks/agnostic/pause-control/-/releases/permalink/latest/downloads/module.json",
-  "download": "https://gitlab.com/koboldworks/agnostic/pause-control/-/releases/1.2.0/downloads/pause-control.zip",
-  "url": "https://gitlab.com/koboldworks/agnostic/pause-control",
-  "bugs": "https://gitlab.com/koboldworks/agnostic/pause-control/-/issues",
-  "flags": {}
+	"id": "Remove-Auto-Pause",
+	"title": "Remove Auto-Pause",
+	"description": "Allows automation of pausing and unpausing in certain situations.",
+	"version": "1.3.0",
+	"authors": [
+		{
+			"name": "GWarn ClaPSG"
+		}
+	],
+	"esmodules": ["pause-control.mjs"],
+	"languages": [
+		{
+			"lang": "en",
+			"path": "lang/en.json"
+		},
+		{
+			"lang": "it",
+			"path": "lang/it.json"
+		}
+
+	],
+	"compatibility": {
+		"minimum": 11,
+		"verified": 14
+	},
+	"url": "https://github.com/GregoryWarn/Remove-Auto-Pause",
+  	"manifest": "https://github.com/GregoryWarn/Remove-Auto-Pause/releases/latest/download/module.json",
+  	"download": "https://github.com/GregoryWarn/Remove-Auto-Pause/releases/download/v1.3.0/module.zip"
 }
