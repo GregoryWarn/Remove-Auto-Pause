@@ -1,0 +1,19 @@
+{
+	"Koboldworks": {
+		"Pause": {
+			"MenuLabel": "Pausa e Riattivazione",
+			"Title": "Configurazione Pausa",
+			"MenuHint": "Consente di mettere in pausa e riattivare in una varietà di scenari indipendenti dal sistema.",
+			"CombatControl": "Controllo Pausa Combattimento",
+			"CombatControlHint": "Mette in pausa e riprende automaticamente se è il turno del giocatore o no.",
+			"Restore": "Ripristina lo stato di pausa",
+			"RestoreHint": "Ripristina lo stato di pausa alla fine del combattimento a quello che era all'inizio."
+		},
+		"Unpause": {
+			"OnReady": "Rimuovi pausa all'avvio",
+			"OnReadyHint": "Rimuovi pausa quando Foundry è pronto.",
+			"OnCombat": "Rimuovi pausa al combattimento",
+			"OnCombatHint": "Rimuovi la pausa quando inizia il combattimento."
+		}
+	}
+}
