@@ -1,5 +1,5 @@
 # Pause-Control
-Updated to Foundry VTT V14 from Koboldworks – Pause Control
+Updated by GregoryWarn - ClaPSG to Foundry VTT V14 from Koboldworks – Pause Control
 
 Offers several options for controlling pause state.
 
