@@ -5,7 +5,7 @@
 	"version": "1.3.5",
 	"authors": [
 		{
-			"name": "GWarn - ClaPSG"
+			"name": "GregoryWarn - ClaPSG"
 		}
 	],
 	"esmodules": ["pause-control.mjs"],
