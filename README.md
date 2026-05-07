@@ -1,4 +1,4 @@
-# Remove Auto-Pause
+# Pause-Control
 Updated to Foundry VTT V14 from Koboldworks – Pause Control
 
 Offers several options for controlling pause state.
